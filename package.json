@@ -10,6 +10,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "@walletconnect/browser": "^1.0.0-beta.42",
+    "@walletconnect/qrcode-modal": "^1.0.0-beta.42",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
